@@ -9,6 +9,9 @@ deep sleep modes consuming less than 10 µA, making it ideal for battery-powered
 supported by development environments like Arduino IDE and MicroPython, and is widely used in IoT,
 smart devices, and embedded systems
 
+![image](https://github.com/user-attachments/assets/1dcfa3e3-a0b6-4e9f-bd8d-03b5c82fa1e4)
+
+
 General Specifications:
 Processor: Dual-core 32-bit LX6 microprocessor
 Clock Speed: Up to 240 MHz
