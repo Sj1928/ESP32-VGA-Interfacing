@@ -1,6 +1,9 @@
 # ESP32-VGA-Interfacing
 This project successfully demonstrates the integration of an ESP32 microcontroller with a VGA display, creating an interactive and visually engaging interface. Through the use of the ESP32Video library, we were able to display text and graphical content on a 320x240 VGA screen.
 
+connection
+![IMG_20241111_230145885](https://github.com/user-attachments/assets/d53f61c3-3aa0-4341-b6f8-4564c94dd690)
+
 
 The ESP32 is a powerful, low-cost microcontroller with dual-core processing (up to 240 MHz), 520 KB
 SRAM, and support for Wi-Fi and Bluetooth (4.2 BLE). It features 34 GPIO pins, 12-bit ADC, PWM, DAC,
@@ -10,6 +13,7 @@ supported by development environments like Arduino IDE and MicroPython, and is w
 smart devices, and embedded systems
 
 ![image](https://github.com/user-attachments/assets/1dcfa3e3-a0b6-4e9f-bd8d-03b5c82fa1e4)
+![IMG_20241111_230524866](https://github.com/user-attachments/assets/e60cdc54-9762-4ac4-9cb1-892c67793c67)
 
 
 General Specifications:
